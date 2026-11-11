@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="t">
+<title id="t">三种机场套餐权益的区别</title><rect width="1200" height="220" rx="18" fill="#f3ead9"/>
+<g font-family="sans-serif"><path d="M400 30v160M800 30v160" stroke="#c9b99d"/>
+<g fill="#243a36" font-size="32" font-weight="700"><text x="34" y="67">01 周期订阅</text><text x="434" y="67">02 一次性总量</text><text x="834" y="67">03 配套加油包</text></g>
+<g fill="#5b6256" font-size="23"><text x="34" y="119">支付有效期内的套餐权益</text><text x="34" y="160">核对重置日与到期规则</text><text x="434" y="119">买一份流量，按使用扣除</text><text x="434" y="160">核对有效期与叠加方式</text><text x="834" y="119">给已有主套餐补充流量</text><text x="834" y="160">不能代替独立机场订阅</text></g></g></svg>
